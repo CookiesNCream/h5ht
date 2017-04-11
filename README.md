@@ -8,9 +8,9 @@ To enhance the development of HTML5 pages.
 
 # Features
 
-* Google Material Design Icons
-* Font Awesome 
-* Bootstrap 
+* [Google Material Design Icons](http://google.github.io/material-design-icons/)
+* [Font Awesome](http://fontawesome.io/)
+* [Bootstrap](http://getbootstrap.com/)
 
 # License
 
