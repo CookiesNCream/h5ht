@@ -1,6 +1,6 @@
-# h5bt
+# HTML5 Bootstrap Template
 
-HTML5 Bootstrap Template
+Brings together web development capabilities and places them in one template. 
 
 # Motivation
 
