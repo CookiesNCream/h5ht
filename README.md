@@ -8,4 +8,4 @@ To enhance the development of HTML5 pages.
 
 # License
 
-[See LICENSE]()
+[See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
