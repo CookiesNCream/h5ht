@@ -1,6 +1,8 @@
-MIT License
+The MIT License (MIT)
 
-Copyright (c) 2017 Linda Lim 
+Copyright (c) 2015 Linda Lim. All Rights Reserved.
+
+No posts, images, videos, and audio clips are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the MIT license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
