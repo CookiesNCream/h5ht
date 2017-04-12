@@ -13,6 +13,7 @@ To enhance the development of HTML5 pages for experienced users looking for a ch
 * [Bootstrap](http://getbootstrap.com/)
 * [jQuery](http://jquery.com/)
 * [D3.js](https://d3js.org/#introduction)
+* [Leaflet.js](http://leafletjs.com/)
 
 # License
 
