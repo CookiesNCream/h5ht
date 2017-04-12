@@ -1,4 +1,4 @@
-# HTML5 Bootstrap Template
+# HTML5 Hackform Template
 
 Brings together web development capabilities and places them in one template. 
 
