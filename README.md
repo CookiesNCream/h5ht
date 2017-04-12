@@ -17,3 +17,7 @@ To enhance the development of HTML5 pages for experienced users looking for a ch
 # License
 
 [See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
+
+# How to contribute to this project
+
+Stay tuned...
