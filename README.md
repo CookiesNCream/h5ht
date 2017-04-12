@@ -12,6 +12,7 @@ To enhance the development of HTML5 pages for experienced users looking for a ch
 * [Font Awesome](http://fontawesome.io/)
 * [Bootstrap](http://getbootstrap.com/)
 * [jQuery](http://jquery.com/)
+* [D3.js](https://d3js.org/#introduction)
 
 # License
 
