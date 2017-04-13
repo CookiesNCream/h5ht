@@ -4,7 +4,7 @@ Brings together web development capabilities and places them in one template.
 
 # Motivation
 
-To enhance the development of HTML5 pages for experienced users looking for a challenge. 
+To enhance the development of HTML5 pages for experienced coders looking for a challenge. 
 
 # Features
 
