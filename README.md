@@ -1,6 +1,6 @@
 # HTML5 Hackform Tool
 
-Brings together web development capabilities and places them in one template. 
+Brings together web development capabilities and places them in one tool. 
 
 # Motivation
 
