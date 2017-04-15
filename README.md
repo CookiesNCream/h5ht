@@ -23,7 +23,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 # Contributor Code of Conduct
 
-The [Code of Conduct]() is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
 # How to contribute to this project
 
