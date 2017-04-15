@@ -11,6 +11,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 * [Google Material Design Icons](http://google.github.io/material-design-icons/)
 * [Font Awesome](http://fontawesome.io/)
 * [Bootstrap](http://getbootstrap.com/)
+* [Social Buttons for Bootstrap](https://lipis.github.io/bootstrap-social/)
 * [jQuery](http://jquery.com/)
 * [D3.js](https://d3js.org/#introduction)
 * [Leaflet.js](http://leafletjs.com/)
