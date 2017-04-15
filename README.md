@@ -6,7 +6,7 @@ Brings together web development capabilities and places them in one tool.
 
 To enhance the development of HTML5 pages for experienced coders looking for a challenge. 
 
-# Features
+# Tech Stack
 
 * [Google Material Design Icons](http://google.github.io/material-design-icons/)
 * [Font Awesome](http://fontawesome.io/)
