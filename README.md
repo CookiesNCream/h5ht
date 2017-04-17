@@ -1,6 +1,6 @@
 # HTML5 Hackform Tool
 
-Brings together web development capabilities and places them in one tool. 
+Brings together web development capabilities and places them in one tool more efficiently and securely. 
 
 # Motivation
 
@@ -20,6 +20,10 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 # License
 
 [See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
+
+# Instructions to use the HTML5 Hackform Tool
+
+Stay tuned...
 
 # Contributor Code of Conduct
 
