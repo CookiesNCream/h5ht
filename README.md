@@ -9,6 +9,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 # Tech Stack
 
 * [Google Material Design Icons](http://google.github.io/material-design-icons/)
+* [Materialize](http://materializecss.com/getting-started.html)
 * [Font Awesome](http://fontawesome.io/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Social Buttons for Bootstrap](https://lipis.github.io/bootstrap-social/)
