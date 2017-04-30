@@ -32,11 +32,11 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 
 # How to contribute to this project (Coming soon! Stay tuned!)
 
-1) Familiarize yourself with the [contributor code of conduct]() to have an effective contributor experience.
+1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
 2) Fork the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo.
 
-3) Raise an [issue]() by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
+3) Raise an [issue](https://github.com/CookiesNCream/h5ht/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
 
 4) Work on the improvement or fixture and [send a pull request]() for review.
 
