@@ -38,7 +38,7 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 
 3) Raise an [issue](https://github.com/CookiesNCream/h5ht/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
 
-4) Work on the improvement or fixture and [send a pull request]() for review.
+4) Work on the improvement or fixture and [send a pull request](https://github.com/CookiesNCream/h5ht/pulls) for review.
 
 5) Upon pull request review approval by the author, status checks will be carried out.
 
