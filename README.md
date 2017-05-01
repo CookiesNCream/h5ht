@@ -1,4 +1,4 @@
-# HTML5 Hackform Tool :star:
+# HTML5 Hackform Tool 
 
 Brings together web development capabilities and places them in one tool more efficiently and securely. 
 
@@ -22,7 +22,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 [See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
 
-# Instructions to use the HTML5 Hackform Tool
+# Instructions to use the HTML5 Hackform Tool :star::
 
 Stay tuned...
 
