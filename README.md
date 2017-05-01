@@ -44,4 +44,4 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
-7) Thanks for your invaluable contribution. 
+7) Thanks for your invaluable contribution. :heart: 
