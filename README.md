@@ -4,7 +4,7 @@ Brings together web development capabilities and places them in one tool more ef
 
 # Motivation
 
-To enhance the development of HTML5 pages for experienced coders looking for a challenge. 
+To enhance the development of HTML5 pages for experienced coders looking for a challenge. Having said that, this is does not mean less experienced users should shy away from such a challenge. 
 
 # Tech Stack
 
@@ -22,11 +22,10 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 Stay tuned...
 
-# Contributor Code of Conduct
-
-The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
-
 # How to contribute to this project (Coming soon! Stay tuned!)
+
+* [Issue Tracker]()
+* [Source Code]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
@@ -41,6 +40,20 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
 7) Thanks for your invaluable contribution. :heart: 
+
+# Contributor Code of Conduct
+
+The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+
+# FAQ
+
+Stay tuned...
+
+# Support
+
+* Join the discussion on Slack
+
+Stay tuned...
 
 # License
 
