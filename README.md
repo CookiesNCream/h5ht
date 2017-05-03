@@ -18,10 +18,6 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 * [Leaflet.js](http://leafletjs.com/)
 * [React.js](https://facebook.github.io/react/)
 
-# License
-
-[See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
-
 # Instructions to use the HTML5 Hackform Tool :star::
 
 Stay tuned...
@@ -45,3 +41,7 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
 7) Thanks for your invaluable contribution. :heart: 
+
+# License
+
+[See LICENSE](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md)
