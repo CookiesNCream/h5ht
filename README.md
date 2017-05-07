@@ -18,12 +18,13 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 * [Leaflet.js](http://leafletjs.com/)
 * [React.js](https://facebook.github.io/react/)
 * [Babel](https://babeljs.io/)
+* [marked.js](http://www.javascriptoo.com/marked)
 
 # Instructions to use the HTML5 Hackform Tool :star::(Coming soon! Stay tuned!)
 
 
 
-# How to contribute to this project (Coming soon! Stay tuned!)
+# Instructions to contribute to this project (Coming soon! Stay tuned!)
 
 * [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
 * [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
