@@ -25,9 +25,9 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 # How to contribute to this project (Coming soon! Stay tuned!)
 
 * [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
-* [Source Code]()
-* [Fork Repo]()
-* [Raise Issue]()
+* [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
+* [Fork Repo Template]()
+* [Raise Issue Template]()
 * [Send Pull Request]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
