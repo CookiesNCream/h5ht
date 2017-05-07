@@ -49,6 +49,8 @@
    <div class="container"></div>
    <!-- Enable page content to cover full width of the device (browser) -->
    <div class="container-fluid"></div>
+   <!-- Enable React to render page content -->
+   <div id="container"></div>
      <header class="body">
 
      </header>
@@ -129,6 +131,24 @@
    <!-- Embeds javascripts within the html document -->
    <script type="text/javascript" media="screen"></script>
 
+   <!-- Embeds JSX for React within the html document -->
+   <script type="text/babel">
+     var RowComponent = React.createClass({
+         render: function() {
+            return (
+               <div>
+               <div className="rowComponent"></div>
+               </div>
+            );
+         }
+     });
+     ReactDOM.render(
+       <RowComponent/>,
+       <div>//html markup here, declaring elements instead of components</div>
+       document.getElementById('container')
+     );
+   </script>   
+   
    <!-- Links external files to html documents -->
    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
