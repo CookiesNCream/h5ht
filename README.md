@@ -24,7 +24,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 
 
-# Instructions to contribute to this project (Coming soon! Stay tuned!)
+# Guide to contribute to this project (Coming soon! Stay tuned!)
 
 * [Background]()
 * [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
