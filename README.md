@@ -27,8 +27,8 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 # Instructions to contribute to this project (Coming soon! Stay tuned!)
 
 * [Background]()
-* [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
 * [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
+* [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
 * [Latest Release]()
 * [First Bug]()
 
