@@ -28,8 +28,8 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 * [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
 * [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
-* [Fork Repo Template]()
-* [Raise Issue Template]()
+* ![Fork Repo Template](https://drive.google.com/file/d/0B3o-a_7h0VNMWC1FMGxCaFJ2SDg/view?usp=sharing)
+* ![Raise Issue Template](https://drive.google.com/file/d/0B3o-a_7h0VNMZE5RZzJmUFVURGM/view?usp=sharing)
 * [Send Pull Request Template](https://github.com/CookiesNCream/h5ht/compare)
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
