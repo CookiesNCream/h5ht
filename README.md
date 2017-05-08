@@ -4,7 +4,7 @@ Brings together web development capabilities and places them in one tool more ef
 
 # Motivation
 
-To enhance the development of HTML5 pages for experienced coders looking for a challenge. Having said that, this is does not mean less experienced users should shy away from such a challenge. 
+To enhance the development of HTML5 pages for experienced coders looking for a challenge. Having said that, this does not mean less experienced users should shy away from such a challenge. 
 
 # Tech Stack
 
@@ -34,7 +34,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
-2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMWC1FMGxCaFJ2SDg/view?usp=sharing) the HTML5 Hackform Tool repo by clicking on the "Fork" button at the top right-hand side of the repo.
+2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMWC1FMGxCaFJ2SDg/view?usp=sharing) the HTML5 Hackform Tool repo by clicking on the "Fork" button at the top right-hand side of the repo and find a bug or think of a quick question. For questions that require more lengthy discussions, join the [Slack team]().
 
 3) Raise an [issue](https://github.com/CookiesNCream/h5ht/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it. See [Raise Issue Template](https://drive.google.com/file/d/0B3o-a_7h0VNMZE5RZzJmUFVURGM/view?usp=sharing)
 
