@@ -30,6 +30,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 * [Source Code](https://github.com/CookiesNCream/h5ht/blob/master/index.html)
 * [Issue Tracker](https://github.com/CookiesNCream/h5ht/issues)
 * [Latest Release]()
+* [Change Log]()
 * [First Bug]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
