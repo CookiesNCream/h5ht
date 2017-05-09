@@ -33,11 +33,11 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 * [Change Log]()
 * [First Bug]()
 
-# Contributor Code of Conduct
+# Contributor Code of Conduct (Coming soon! Stay tuned!)
 
 The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# FAQ (Coming soon! Stay tuned!)
+# FAQ 
 
 * [How to use](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Use.md)
 * [How to contribute](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Contribute.md)
