@@ -22,7 +22,7 @@ To enhance the development of HTML5 pages for experienced coders looking for a c
 
 # Instructions to install the HTML5 Hackform Tool :star::(Coming soon! Stay tuned!)
 
-# Instructions to use the HTML5 Hackform Tool :star:
+# Instructions to use the HTML5 Hackform Tool :star: (Coming soon! Stay tuned!)
 
 Adapt the [latest release]() of the HTML5 Hackform Tool to your project, but don't forget to acknowledge the author according to the [license](https://github.com/CookiesNCream/h5bt/blob/master/LICENSE.md) at the [top of every code template file (html, css, etc.) as a comment](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Use.md) and as a link in your tech stack like this
 
