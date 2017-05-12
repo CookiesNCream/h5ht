@@ -49,6 +49,10 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 # Support (Coming soon! Stay tuned!)
 
 * [Join the discussion on Slack]()
+  * faq - ask questions about using or contributing to the HTML5 Hackform Tool in this channel 
+  * general - request to join adapters (users), codeofconduct, contributors, maintainers (private channels) in this channel
+  * network - network for new tech opportunities, learn from one another, and talk about tech in this channel
+  * walloffame - acknowledges members for their time, effort, and contribution in this channel
 
 # License
 
