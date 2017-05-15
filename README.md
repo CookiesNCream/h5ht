@@ -45,7 +45,7 @@ The [Code of Conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-
 
 * [How to use](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Use.md)
 * [How to contribute](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Contribute.md)
-* [How to volunteer]()
+* [How to volunteer](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Volunteer.md)
 
 # Support (Coming soon! Stay tuned!)
 
