@@ -1,6 +1,6 @@
->Note: For [First Bug](), go straight to step 4. Join the [Slack team](). All types of contributions are welcome. :smile:
+>Note: For [First Bug](), go straight to step 4. Join the [Slack team]() by following through the [How to Volunteer](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Volunteer.md). All types of contributions are welcome. :smile:
 
-1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience. Join the [Slack team]().
+1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience. Join the [Slack team]() by following through the [How to Volunteer](https://github.com/CookiesNCream/h5ht/blob/master/How-To-Volunteer.md).
 
 2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMWC1FMGxCaFJ2SDg/view?usp=sharing) the HTML5 Hackform Tool repo by clicking on the "Fork" button at the top right-hand side of the repo and find a bug (e.g. code, documentation, accessibility, test coverage) or think of a quick question. For questions that require more lengthy discussions, join the [Slack team]().
 
