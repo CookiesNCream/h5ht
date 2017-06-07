@@ -1,4 +1,4 @@
->Note: For [First Bug](), go straight to step 4. Join the [Slack team]().All types of contributions are welcome. :smile:
+>Note: For [First Bug](), go straight to step 4. Join the [Slack team](). All types of contributions are welcome. :smile:
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/CookiesNCream/h5ht/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience. Join the [Slack team]().
 
