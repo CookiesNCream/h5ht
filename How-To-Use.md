@@ -1,34 +1,178 @@
-BSD 3-Clause License
+<!-- By Linda Lim | HTML5 Hackform Tool | BSD 3-Clause License | https://github.com/CookiesNCream/h5ht -->
+<!DOCTYPE html>
+<html lang="en">
 
-Copyright © 2014-2018 Linda Lim. All Rights Reserved.
+<head>
 
-No content, images, videos, audio clips, visual design, and the logotype are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the BSD 3-Clause License.
+   <!-- Defines the web site content display browser support and the character set -->
+   <meta http-equiv="Content-Type" content="text/html" charset="UTF-8"/>
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+   <!-- Enables the web site to work on all devices and screen resolutions -->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
+   <!-- Links external files to html documents -->
+   <link rel="icon" href="favicons/favicon.ico" alt="" type="image/x-icon"/>
+   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css" integrity="sha256-xbQIJkhfOw0Dry1H9lawvXRi9XcqdE8jDBZx1Op/mz8=" crossorigin="anonymous"/>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" integrity="sha256-bOWY8F32FGGbNDMPAnwWl/Lv9CKen4IQsNZ4RU9rcs0=" crossorigin="anonymous"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet-src.map"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/images/marker-shadow.png"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/images/marker-icon.png"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/images/marker-icon-2x.png"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/images/layers.png"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/images/layers-2x.png"/>
+   <link rel="stylesheet" href="stylesheets/stylesheet.css" type="text/css" media="screen"/>
+   
+   <!-- Bootstrap -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" integrity="sha256-rFMLRbqAytD9ic/37Rnzr2Ycy/RlpxE5QH52h7VoIZo=" crossorigin="anonymous"/>
+   
+   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+   <!-- [if lt IE 9] -->
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+   <!-- [endif] -->
 
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
+   <title>Web Site Title : Page Title</title>
 
-* Neither the name of the copyright holder nor the names of its
-  contributors may be used to endorse or promote products derived from
-  this software without specific prior written permission.
+   <!-- Embeds stylesheets within the html document -->
+   <style type="text/css" media="screen"></style>
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</head>
 
-*****************************************************************************************************************************************
 
-CODE
+<body>
+   <!-- Center page content with a fixed width regardless of the size of device (browser)-->
+   <div class="container"></div>
+   <!-- Enable page content to cover full width of the device (browser) -->
+   <div class="container-fluid"></div>
+   <!-- Enable React to render page content -->
+   <div id="container"></div>
+     <header class="body">
+
+     </header>
+
+     <section class="body">
+     <!-- Materialize -->
+     <!-- Each column has an equal width regardless of the size of device (browser) -->
+     <div class="row">
+       <div class="col s1">1</div>
+       <div class="col s1">2</div>
+       <div class="col s1">3</div>
+       <div class="col s1">4</div>
+       <div class="col s1">5</div>
+       <div class="col s1">6</div>
+       <div class="col s1">7</div>
+       <div class="col s1">8</div>
+       <div class="col s1">9</div>
+       <div class="col s1">10</div>
+       <div class="col s1">11</div>
+       <div class="col s1">12</div>
+     </div>
+     <!-- Each column has a width of 4 columns on a small device -->
+     <div class="row">
+       <div class="col s4"></div>
+       <div class="col s4"></div>
+       <div class="col s4"></div>
+     </div>
+     <!-- Responsive columns based on the size of device (browser) -->
+     <div class="row">
+       <div class="col s12"><p>s12</p></div>
+       <div class="col s12 m4 l2"><p>s12 m4</p></div>
+       <div class="col s12 m4 l8"><p>s12 m4</p></div>
+       <div class="col s12 m4 l2"><p>s12 m4</p></div>
+     </div>
+     <!-- Responsive columns based on the size of device (browser) -->
+     <div class="row">
+       <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+       <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+       <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+       <div class="col s12 m6 l3"><p>s12 m6 l3</p></div>
+     </div>
+   
+     <!-- Bootstrap -->
+     <!-- Stacked columns on mobile devices and tablet devices (extra small to small) before becoming horizontal columns on desktop devices (medium)-->
+     <div class="row">
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+       <div class="col-md-1">.col-md-1</div>
+     </div>
+     <div class="row">
+       <div class="col-md-8">.col-md-8</div>
+       <div class="col-md-4">.col-md-4</div>
+     </div>
+     <div class="row">
+       <div class="col-md-4">.col-md-4</div>
+       <div class="col-md-4">.col-md-4</div>
+       <div class="col-md-4">.col-md-4</div>
+     </div>
+     <div class="row">
+       <div class="col-md-6">.col-md-6</div>
+       <div class="col-md-6">.col-md-6</div>
+     </div>
+     </section>
+     
+     <footer class="body">     
+
+     </footer>
+  
+   <!-- Embeds javascripts within the html document -->
+   <script type="text/javascript" media="screen"></script>
+
+   <!-- Embeds JSX for React within the html document -->
+   <script type="text/babel">
+     var RowComponent = React.createClass({
+         render: function() {
+            return (
+               <div>
+               <div className="rowComponent"></div>
+               </div>
+            );
+         }
+     });
+     ReactDOM.render(
+       <RowComponent/>,
+       <div>//html markup here, declaring elements instead of components</div>
+       document.getElementById('container')
+     );
+   </script>   
+   
+   <!-- Links external files to html documents -->
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
+   <!-- Include all compiled plugins (below), or include individual files as needed -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js" integrity="sha256-lVmbGVbzHBkNHCUK0y+z2AyJei/v7jSNYppXTcq2FtU=" crossorigin="anonymous"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.8.0/d3.min.js" integrity="sha256-SG9O7IpJWlIha5Q8UIqaLFkkimE+CbubKlzSwTbdS1g=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js" integrity="sha256-GXUdrV9FHGDyzoSGD3O+jR3eYZaZZsjbsMvFhK3C0qg=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet-src.js" integrity="sha256-P07xCLjF+/U41mc8F+j2eVyCVglmnUR7BN1Av/bUxPg=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react.min.js" integrity="sha256-lLTXVU5NHLl101VgD3LswV6ZgI2PjSjZ5dVzhBcq52k=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react-dom.min.js" integrity="sha256-4DRNdBX+quo7fRIFuR9yhr157hq/9FcAsHRDNQEXZSM=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react-with-addons.min.js" integrity="sha256-ykoK6YBjgeCBJDtPZysq9Jad9t24BfFNtlmmr61nfnw=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.5.4/react-dom-server.min.js" integrity="sha256-1J7j2pvBR8Y/4TMbgbq4nkJYbZzWEdRXD5TbXj8HEZU=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/6.1.19/browser.min.js" integrity="sha256-zSpX/F9KKuk1nLBq2vygsdDm6QrSbVdn5lteMkdzWdk=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.min.js" integrity="sha256-mJAzKDq6kSoKqZKnA6UNLtPaIj8zT2mFnWu/GSouhgQ=" crossorigin="anonymous"></script>
+   
+   <!-- Scripts are downloaded as soon as they are downloaded in a random order without blocking the browser from parsing the rest of your html document -->
+   <script type="text/javascript" src="path/to/script1.js" async></script> 
+   <script type="text/javascript" src="path/to/script2.js" async></script>
+ 
+   <!-- Scripts are downloaded as soon as they are downloaded in order (except for IE <= 9 so use "defer" for browsers above IE 9) without blocking the browser from parsing the rest of your html document -->
+   <script type="text/javascript" src="path/to/script1.js" defer></script>
+   <script type="text/javascript" src="path/to/script2.js" defer></script>
+</body>
+
+</html>
